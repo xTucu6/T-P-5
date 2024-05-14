@@ -1,0 +1,11 @@
+    .container {
+        margin-top: 50px;
+    }
+
+    body {
+        background-color: #000000;
+        min-height: 100vh;
+        background-image: url("https://www.muralesyvinilos.com/murales/5100001061_batman_mirando_la_imagen_del_murcielago_en_el_cielo.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+    }

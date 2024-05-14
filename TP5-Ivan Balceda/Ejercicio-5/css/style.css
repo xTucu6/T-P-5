@@ -1,0 +1,11 @@
+.container {
+    margin-top: 50px;
+}
+
+body {
+    background-color: #000000;
+    min-height: 100vh;
+    background-image: url("https://imgs.search.brave.com/1ua92p_SlBw2wQZH3czpaipijjDXS56rsQNwKspYkkk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90b3MtcHJlbWl1/bS9ib21iYS1udWNs/ZWFyLWVub3JtZS1l/eHBsb3Npb24taG9y/aXpvbnRlLWNpdWRh/ZC1vYnJhLWFydGUt/M2QtaWx1c3RyYWNp/b24tYXBvY2FsaXB0/aWNhXzg3NTM4LTMy/MDMuanBnP3NpemU9/NjI2JmV4dD1qcGc");
+    background-attachment: fixed;
+    background-size: cover;
+}
